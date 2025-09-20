@@ -18,8 +18,8 @@ Passo a Passo da Instalação
 Clone o Repositório:
 Abra o terminal e clone o projeto para a sua máquina.
 
-git clone https://github.com/seu-usuario/seu-repositorio.git
-cd seu-repositorio
+git clone https://github.com/yasminrosas/souDrop.git
+cd souDrop
 Instale as Dependências do PHP:
 O Composer irá baixar todas as bibliotecas PHP necessárias para o Laravel.
 
